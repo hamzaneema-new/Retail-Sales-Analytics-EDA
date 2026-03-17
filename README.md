@@ -116,18 +116,27 @@ This helps identify geographic demand concentration and global sales patterns.
 📌 Orders are concentrated in specific markets and cities, revealing geographic demand clusters.
 
 📁 Repository Structure
+
 Retail-Sales-Analytics-EDA
 │
 ├── superstore.csv
+
 ├── retail_sales_eda_analysis.ipynb
+
 └── README.md
+
 🎯 Skills Demonstrated
 
 ✔ Data Cleaning
+
 ✔ Exploratory Data Analysis
+
 ✔ Data Visualization
+
 ✔ Statistical Interpretation
+
 ✔ Business Insight Generation
+
 ✔ Python Data Analysis Stack
 
 👤 Author
